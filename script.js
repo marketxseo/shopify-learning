@@ -4,3 +4,5 @@ let profession = "Banker";
 console.log(name);
 console.log(age);
 console.log(profession);
+let daughter = "Samayra";
+console.log(daughter);
