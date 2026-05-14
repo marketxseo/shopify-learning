@@ -1,7 +1,6 @@
-let storeName = "Monir Fashion Store";
-let productPrice = 120;
-let isAvailable = true;
-
-console.log(storeName);
-console.log(productPrice);
-console.log(isAvailable);
+let name = 'Monir';
+let age = 36;
+let profession = "Banker";
+console.log(name);
+console.log(age);
+console.log(profession);
